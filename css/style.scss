@@ -4,8 +4,10 @@
 body {
 	font-family: Roboto, sans-serif;
 	max-width: 900px;
-	margin: auto;
-	padding: 5px;
+	margin: -20px auto;
+	padding: 0 5px;
+	border-top: 40px solid #949AC9;
+	border-bottom: 20px solid #949AC9;
 }
 
 section:not(:first-of-type) {
